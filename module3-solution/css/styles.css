@@ -1,0 +1,126 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #7DC2FF;
+  font-family: 'Roboto', sans-serif;
+  padding-top: 50px;
+}
+
+/** HEADER **/
+ 
+nav {
+height: 70px;
+}
+
+#header-nav {
+  background-color: #268655;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand {
+
+  padding-top: 2px
+
+}
+
+.navbar-brand h1 { /* Business name */
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 1.7em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #ddd;
+  text-align: center;
+  line-height: .75;
+}
+.navbar-brand h1:hover {/* header title */
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+#nav-list { /* menu */
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+#nav-list a {
+  font-size: 1em;
+  color: #ffffff;
+  text-align: center;
+}
+#nav-list a:hover {
+  color: #E7E7E7;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {/* menu button*/
+  border: 1px solid #ffffff;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#nav-list
+{margin-top: 0;
+  background: #f6921a;
+}
+
+.row .container-fluid{ /* content box*/
+  border: 2px solid;
+  border-color: #000000;
+  background-color: #f1f1f1;
+  height: 700px;
+  margin-top: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+  
+}
+
+h2 {
+  padding-top: 60px;
+   font-family: 'Roboto', sans-serif;
+  color: #fffff;
+  font-size: 1.8em;}
+
+.row{
+  padding-top: 20px;
+}
+
+
+
+h3 {
+   font-family: 'Roboto', sans-serif;
+  color: #4d4d4d;
+  font-size: 1.5em;
+}
+
+p {
+   font-family: 'Roboto', sans-serif;
+  color: #3c3c3c;
+  font-size: 1em;
+  padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
